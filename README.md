@@ -232,7 +232,7 @@ The ProposalContract handles the submission and tracking of marketing proposals 
 5. Verifiers confirm milestone completion
 6. When all milestones are complete, the proposal is marked completed and stake returned
 
-### **3. Rewards Contract (Treasury)**
+### **3. Rewards Contract (Treasury)** 
 
 The RewardsContract manages the DAO treasury and handles fund disbursement for approved proposals and completed milestones.
 
